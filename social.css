@@ -19,6 +19,7 @@ img {
 
 a {
     display: block;
+    width: 100vw;
     color: white;
     text-decoration: none;
     background-color: darkred;
